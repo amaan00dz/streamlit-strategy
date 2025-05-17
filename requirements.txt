@@ -1,0 +1,7 @@
+streamlit
+websockets
+matplotlib
+mplfinance
+pandas
+numpy
+aiohttp
